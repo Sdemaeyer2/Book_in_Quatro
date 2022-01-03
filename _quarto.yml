@@ -4,7 +4,7 @@ project:
 book:
   title: "De kwaliteit van grootschalige ‘performance assessments’ gewikt en gewogen"
   author: "Alexia Deneire, Jetje De Groof, Liesje Coertjens, Vincent Donche, Jan Vanhoof, Peter Van Petegem, Sven De Maeyer"
-  date: "01/03/2022"
+  date: "03/01/2022"
   sidebar:
     style: docked
     background: light
@@ -22,7 +22,7 @@ book:
     - implicaties.qmd
     - woordenlijst.qmd
     - references.qmd
-  downloads: [docx, pdf]
+  downloads: [pdf]
   sharing: [twitter, facebook]
 language: dutch.yml
 cls: apa6.cls
