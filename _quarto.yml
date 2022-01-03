@@ -24,6 +24,7 @@ book:
     - references.qmd
   downloads: [pdf]
   sharing: [twitter, facebook]
+google_analytics: "G-THXJV94V3N"
 language: dutch.yml
 cls: apa6.cls
 bibliography: references.bib
