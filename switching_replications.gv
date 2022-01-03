@@ -1,0 +1,20 @@
+digraph neato{
+  graph[]
+  node [
+        style = "filled, bolled",
+        penwidth = 1.5,
+        fillcolor = "white",
+        shape = "Mrecord",
+        fontsize = 16,
+        width = 3]
+  a [label = <<table border="0" cellborder="0" cellpadding="3" bgcolor="white"> <tr><td bgcolor="black" align="center" colspan="2"><font color="white">Performance(s)</font></td></tr> <tr><td align="left">uitvoering van <br/> de toetstaak of <br/> -taken</td></tr></table>>]
+  b [label = <<table border="0" cellborder="0" cellpadding="3" bgcolor="white"> <tr><td bgcolor="black" align="center" colspan="2"><font color="white">Score(s) </font></td></tr> <tr><td align="left">kwantitatieve representatie <br/> van de performance(s)</td></tr></table>>]
+  c [label = <<table border="0" cellborder="0" cellpadding="3" bgcolor="white"> <tr><td bgcolor="black" align="center" colspan="2"><font color="white">Toetsdomein </font></td></tr> <tr><td align="left"> alle mogelijke taken <br/> op alle mogelijke <br/> momenten, beoordeeld <br/>door alle mogelijke <br/>beoordelaars </td></tr></table>>]
+  d [label = <<table border="0" cellborder="0" cellpadding="3" bgcolor="white"> <tr><td bgcolor="black" align="center" colspan="2"><font color="white">Beoogde <br/> competentiedomein </font></td></tr> <tr><td align="left"> de competentie die <br/> wordt getoetst</td></tr></table>>]
+  e [label = <<table border="0" cellborder="0" cellpadding="3" bgcolor="white"> <tr><td bgcolor="black" align="center" colspan="2"><font color="white">Beslissing </font></td></tr> <tr><td align="left">Conclusie op basis <br/>van de geïnterpreteerde <br/>score(s)</td></tr></table>>]
+  
+  a->b [label= <    SCOREN>]
+  b->c [label= <    GENERALISEREN>]
+  c->d [label= <    EXTRAPOLEREN>]
+  d->e [label= <    BESLISSEN>]
+}

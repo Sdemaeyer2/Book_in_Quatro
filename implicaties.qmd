@@ -1,0 +1,96 @@
+# Implicaties
+
+Uit het onderzoek dat we voerden, kunnen lessen getrokken worden voor het beleid en de praktijk. In dit laatste deel formuleren we bijgevolg acht aanbevelingen met het oog op de ontwikkeling en evaluatie van (toekomstige) grootschalige ‘performance assessments’. 
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+1. De beslissing om ‘performance assessment’ in te zetten bij grootschalige competentietoetsen gericht op monitoring op systeemniveau - al dan niet in combinatie met andere toetsvormen - moet doelgericht zijn.
+</span>
+</div>
+<br>
+Een evolutie naar meer competentiegericht onderwijs heeft tot gevolg dat competenties mee in het vizier komen van peilingsonderzoek. ‘Performance assessment’ blijkt een krachtige manier om deze competenties te toetsen, onder andere omwille van het potentieel om leerlingen complexe taken te laten uitvoeren in een zo levensecht mogelijke context. 
+
+Het inzetten van ‘performance assessment’ bij het grootschalig toetsen van competenties dient echter weloverwogen te gebeuren. De evaluatiematrix die we ontwikkelden vestigt duidelijk de aandacht op de vraag rond de te hanteren toetsvorm. Pas nadat de bedoeling van de toets duidelijk werd geëxpliciteerd, de beoogde competentie is verfijnd en het toetsdomein is afgebakend, kan een weloverwogen keuze gemaakt worden over de te gebruiken toetsvormen. 
+
+Het is zaak goed na te denken in welke mate en/of met betrekking tot welke dimensies van de beoogde competentie ‘performance assessment’ kan worden ingezet. De keuze om ‘performance assessment’ in te zetten impliceert met andere woorden niet dat voor korte invulvragen en/of meerkeuzevragen geen ruimte meer is. Elke toetsvorm heeft duidelijke voor- en nadelen en deze dienen te worden afgewogen tegen het doel van de toets dat eerder werd vastgelegd. ‘Performance assessment’ dient effectief een meerwaarde op te leveren ten opzichte van standaard toetsvormen, zeker in het licht van de meerkost (bv. in termen van tijd, middelen en inzet van beoordelaars) die daaraan verbonden is. 
+
+In de bestudeerde praktijkvoorbeelden zien we naast toetssystemen die louter uit ‘performance assessment’ bestaan, ook verschillende voorbeelden waarin competenties of complexe vaardigheden getoetst worden aan de hand van een mix van toetsvormen (bv. meerkeuzevragen naast ‘performance assessment’-taken). Deze werkwijze heeft zowel vanuit kwaliteitsoogpunt als naar haalbaarheid toe, positieve effecten. Het gebruiken van verschillende itemformats levert naar validiteit van scores toe, voordelen op. Elke specifieke toetsvorm brengt immers welbepaalde meetfouten met zich mee en door toetsvormen te combineren, middelt men deze specifieke methode-effecten uit en wordt construct-irrelevante variantie voor een stuk onder controle gehouden. Wat haalbaarheid betreft, biedt het combineren van toetsvormen de mogelijkheid om brede constructen in een verantwoorde tijdspanne te toetsen. 
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+2. Reserveer als opdrachtgever van grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, voldoende tijd en middelen voor een heldere en volledige doelbepaling.
+</span>
+</div>
+<br>
+De vraag of een toets kwaliteitsvol is ingevuld, kan enkel beantwoord worden door te kijken of beslissingen in het ontwikkelproces in lijn liggen met de doelstellingen die eerder in de fase van de doelbepaling geëxpliciteerd werden. Een kwaliteitsvolle toets ontwikkelen begint met andere woorden met een gestructureerde doelbepaling, die uit verschillende deelcomponenten bestaat: waarom gaan we een toets(programma) opzetten, wat willen we op grond daarvan meten (en bij wie), en welke conclusies willen we daaruit kunnen trekken (onder welke vorm)? Keuzes die men met betrekking tot elk van deze deelcomponenten maakt, beïnvloeden elkaar wederzijds. Bovendien hebben ze ook gevolgen voor wat betreft de verdere ontwikkeling van de toets.
+
+De analyse van internationale praktijkvoorbeelden toont aan dat het helder krijgen en beantwoorden van bovenstaande vragen vaak een taak is die door de overheid als opdrachtgever zelf wordt uitgevoerd. Hierbij wordt een breed draagvlak gezocht door uiteenlopende actoren bij de discussies te betrekken, zodat er een voldoende breed beleidsdraagvlak ontstaat voor de doelstellingen die vastgelegd worden. De overheid schrijft daarbij pas een aanbesteding uit voor het ontwikkelen en uitvoeren van peilingsonderzoek nadat ze alle beslissingen in de doelbepaling vastlegde.
+
+De rol van de opdrachtgever bij het uitwerken van een duidelijk afgelijnd doel van de toets heeft organisatorische implicaties. De bestudeerde praktijkvoorbeelden tonen aan dat een degelijke omkadering een vereiste is indien men de ambitie van een duidelijke doelbepaling door de opdrachtgever wil waarmaken.  
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+3. Wees bij grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, waakzaam in het geval van ‘hybride doelstellingen’ en overdenk de gevolgen hiervan voor toetsopzet, rapportering én het gebruik van resultaten.
+</span>
+</div>
+<br>
+Uit de analyse van de praktijkvoorbeelden leren we dat toetsprogramma’s en toetsen multipele doelen kunnen dienen. Verschillende overwegingen kunnen aan de basis daarvan liggen. Grootschalige toetsen vergen een aanzienlijke inspanning in termen van tijd en middelen, wat leidt tot de logische overweging of met één toets niet verschillende vragen beantwoord kunnen worden. Een andere reden is dat grootschalige toetsen enkel afgenomen kunnen worden met medewerking van scholen en leerlingen en dat daarom, in het kader van kwaliteitsbewaking op leerling- en schoolniveau, ook nagedacht kan worden over nuttige informatie die aan scholen aangeleverd kan worden.
+
+Waakzaamheid is echter geboden bij toetsen die een hybride doelbepaling hebben, net omdat aan deze uiteenlopende doelstellingen andere kwaliteitsvereisten voor het opstellen van de toets verbonden zijn. Vanuit het perspectief om ook in het onderwijsveld een draagvlak voor een toetssysteem te creëren, is het bijvoorbeeld perfect te verdedigen dat scholen die deelnemen aan grootschalige toetsen met het oog op kwaliteitsmonitoring op systeemniveau, ook informatie krijgen over de prestaties van de eigen school en zelfs van individuele leerlingen. Het risico bestaat dan echter dat het toetsprogramma noch de toets initieel opgezet werden met deze bijkomende doelstellingen voor ogen en dat de resultaten niet voldoende betrouwbaar zijn op het niveau van de school of de individuele leerling. Hoewel de opdrachtgever hiermee kan omgaan door bijvoorbeeld in de rapporten voor individuele scholen duidelijk aan te geven welke de beperkingen van de resultaten zijn, leren buitenlandse voorbeelden ons dat deze resultaten soms een eigen leven kunnen gaan leiden en dat toetssystemen die in principe zijn opgezet in een ‘low stakes’-context, toch als ‘high stakes’ beschouwd worden. Gevolg: de ‘nieuwe’ interpretatie van de resultaten (in dit geval schoolniveau i.p.v. systeemniveau) is niet meer (geheel) valide.
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+4. Maak gebruik van de bouwstenen en voorwaarden geïdentificeerd in de evaluatiematrix om te bepalen of grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, kwaliteitsvol zijn.
+</span>
+</div>
+<br>
+Grootschalige competentietoetsen, opgezet vanuit het oogpunt de kwaliteit van het onderwijs op systeemniveau te meten, moeten betrouwbare en valide resultaten opleveren, teneinde het beleid gefundeerd te kunnen informeren. In dit onderzoek werd nagegaan op basis van welke bouwstenen en voorwaarden grootschalige competentietoetsen met een ‘performance assessment’-component, kwaliteitsvol uitgewerkt kunnen worden. De evaluatiematrix die het resultaat van dit onderzoek is, omvat zeven bouwstenen. Toekomstige grootschalige competentietoetsen kunnen afgetoetst worden aan de kwaliteitsvoorwaarden die in elke afzonderlijke bouwsteen van de matrix geëxpliciteerd worden.
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+5. Maak bij het realiseren van grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, een weloverwogen afweging tussen generaliseerbaarheid van scores, extrapoleerbaarheid van scores en haalbaarheid (in termen van tijd en middelen).
+</span>
+</div>
+<br>
+Door in te spelen op de voorwaarden uit de evaluatiematrix kan in principe een kwaliteitsvolle toets worden uitgewerkt. Voor het realiseren van een kwaliteitsvolle toets, moeten echter keuzes gemaakt worden. De matrix vormt het ideaalplaatje; de uiteindelijke toets is een doordruk van dat plaatje in de werkelijkheid, waarbij de voorwaarden met betrekking tot elk van de bouwstenen met elkaar afgewogen worden, rekening houdend met het doel van de toets. Op dat vlak kunnen spanningen optreden tussen wat wenselijk is en feitelijk haalbaar. Zo is het bijvoorbeeld niet realistisch te verwachten dat grootschalige competentietoetsen, die in een ideaalscenario geheel betrouwbare en valide scores opleveren, ook nog eens eenvoudig haalbaar blijken te zijn in termen van vereiste tijd en middelen. De drie centrale componenten die bij het maken van keuzes inzake opzet en uitvoering van grootschalige competentietoetsen op basis van ‘performance assessment’, met elkaar afgewogen moeten worden zijn: generaliseerbaarheid, extrapoleerbaarheid en haalbaarheid (in termen van tijd en middelen). Het delicate evenwicht tussen generaliseren en extrapoleren wordt ingegeven door de noodzaak om een accurate, betrouwbare toets op te zetten enerzijds en de ambitie om deze zo authentiek en valide mogelijk te maken anderzijds. De initiatieven met het oog op de generaliseerbaarheid van de scores, zoals standaardisering van de toets en het voorzien van grote steekproeven (o.m. van taken, beoordelaars, afnamemomenten, …), blijken in realiteit moeilijk te combineren met maatregelen die de extrapoleerbaarheid van de scores beogen, zoals het uitwerken van authentieke taken die recht doen aan de criteriumsituatie. In het kader van het opzetten van grootschalige toetsen die gebruik maken van ‘performance assessment’, stelt zich daarenboven ook de vraag of de toets financieel en logistiek haalbaar is. 
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+6. Sta bij het opzetten van grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, open voor andere opties dan strikt gestandaardiseerde toetssystemen.
+</span>
+</div>
+<br>
+De afweging tussen de mogelijkheid tot generaliseren enerzijds en tot extrapoleren anderzijds, houdt in zich dat het standaardiseren van de toets deels ten koste gaat van de validiteit van de toets, en ook andersom. De vaststelling in deze studie is dat, met betrekking tot deze afweging, in de meeste bestudeerde praktijkvoorbeelden de kaart wordt getrokken van doorgedreven standaardisering, ten koste van de validiteit waarop ‘performance assessments’ in principe aanspraak kunnen maken. Dit doet de vraag rijzen welke mate van standaardisering in feite wenselijk en noodzakelijk is.  
+
+Er is echter ook een alternatieve piste mogelijk, waarbij de doorgedreven standaardisering van de afname en het scoren van de toets voor een stuk wordt losgelaten door lokale leerkrachten in te zetten om de toets af te nemen en zelfs te scoren. Deze werkwijze heeft enerzijds voordelen op het vlak van validiteit, onder andere in de zin dat leerkrachten beter kunnen inschatten wat het reële competentieniveau van hun leerlingen is. Anderzijds zijn er logistieke en financiële voordelen, bijvoorbeeld omdat het werken met centraal getrainde toetsassistenten, onder meer ook omwille van de logistiek, duur is.  
+
+Het grootste nadeel van deze werkwijze is dat de scores mogelijk minder generaliseerbaar (betrouwbaar) zijn. Meer en meer echter, wordt erkend dat er een verschil bestaat tussen betrouwbaarheidsstatistieken voor scores en beslissingen op individueel niveau, vergeleken met deze op hogere aggregatieniveaus. Onderzoek toont immers aan dat betrouwbaarheidsniveaus die een bron van zorg kunnen zijn bij rapportering op individueel niveau, nog steeds vaststellingen op hogere niveaus, kunnen ondersteunen. Bovendien weten we ook dat het vasthouden aan een gepaste mate van standaardisering van de afnameprocedures vooral haar belang heeft bij toetsen waar voor de leerling(en) in kwestie, veel op het spel staat (‘high stakes’). 
+
+We stellen op grond van de praktijkvoorbeelden vast dat aan het slagen van deze alternatieve werkwijze een aantal voorwaarden zijn gekoppeld. Ten eerste dient de inzet van lokale leerkrachten voor het afnemen van de toets gecombineerd te worden met centraal aangestuurde controle en kwaliteitszorg. Een tweede voorwaarde verbonden aan het inzetten van lokale leerkrachten is dat er (verder) werk wordt gemaakt van de professionalisering van leerkrachten inzake toetsen en evalueren. 
+
+Deze ‘alternatieve’ werkwijze heeft zowel voor- als tegenstanders. Voorstanders geven aan meer belang te hechten aan het uitwerken van valide toetsen, terwijl tegenstanders meer de nood aan betrouwbare resultaten benadrukken. Tegen die achtergrond is het belangrijk dat de opdrachtgever klaarheid schept over waar voor een welbepaalde toets de nadruk dient te liggen. Het maken van deze keuze kan deel uitmaken van de doelbepaling. 
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+7. Overweeg bij grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau, om ‘matrix sampling’ te gebruiken.
+</span>
+</div>
+<br>
+Dat ook gekeken wordt naar alternatieve manieren om vorm te geven aan kwaliteitsvolle, grootschalige competentietoetsen, neemt niet weg dat deze uitgewerkt dienen te worden vanuit een streven naar een ideaal evenwicht tussen de mogelijkheid tot generaliseren enerzijds en extrapoleren anderzijds. In hoofdstuk 6 werden met het oog op het bereiken van dit evenwicht een aantal uitdagingen geïdentificeerd, waarvoor een oplossing dient te worden gezocht. 
+
+De uitdaging met betrekking tot de mogelijkheid om scores te generaliseren, heeft te maken met het voorzien van voldoende taken. De constructen die via peilingstoetsen gemeten worden, bestrijken vaak een breed domein. Gecombineerd met de problematiek van de tussen-takenvariantie zorgt dit ervoor dat peilingstoetsen een aanzienlijk aantal taken dienen te bevatten om betrouwbare en valide scores op te leveren. Dit is echter praktisch vaak niet haalbaar in termen van kosten verbonden aan de ontwikkeling van de toets en de tijd die leerlingen moeten spenderen aan de toets. Een oplossing die in de geanalyseerde praktijkvoorbeelden en in de literatuur veel gebruikt wordt, is matrix sampling. Bij deze techniek worden steekproeven van taken uit de totale takenpool afgenomen bij steekproeven leerlingen. 
+
+<div class="warning" style='padding:0.2em; background-color:#ECF0F1'>
+<span>
+8. Blijf oog hebben voor nieuwe ontwikkelingen in onderzoek naar en de praktijk van grootschalige competentietoetsen met een ‘performance assessment’-component, gericht op monitoring op systeemniveau.
+</span>
+</div>
+<br>
+Zowel het onderzoek naar, als de praktijk van het grootschalig toetsen van competenties op basis van ‘performance assessment’, evolueert snel. Er bieden zich beloftevolle pistes aan, die een antwoord bieden op een aantal essentiële uitdagingen waar deze toetsprogramma’s en toetsen mee te kampen hebben. Een aantal van deze pistes werden in deze publicatie geïdentificeerd. 
+
+Paarsgewijze vergelijking lijkt een valide, betrouwbaar en haalbaar alternatief te zijn voor scoren van ‘performance assessment’-taken via specifieke scoringstools, zeker in combinatie met nieuwe technologische mogelijkheden. Daarnaast doet geautomatiseerd scoren omwille van het efficiëntievoordeel zijn intrede, met name bij het beoordelen van schrijfproducten. Niet iedereen is er, vanuit validiteitsoogpunt, echter van overtuigd dat deze laatste werkwijze aan te bevelen is. Ook het inzetten van lokale leerkrachten voor toetsafname en scoren, is een piste die volop wordt verkend, om oplossingen te vinden in termen van validiteit en haalbaarheid. 
+
+Uit het onderzoek kwam bovendien naar voren dat digitale systemen het evenwicht tussen standaardisering en authenticiteit mee kunnen helpen vorm geven. Dit gebeurt door de omgeving waarin leerlingen hun toets afleggen duidelijk af te bakenen en tegelijkertijd door een rijkere en meer authentieke context te bieden. Deze context omvat het gebruik van digitale hulpmiddelen (bv. bronnen op het web) of het bieden van een zekere ruimte aan leerlingen om vrij en flexibel te zoeken naar een oplossing.
+
+Net omdat onderzoek niet stil staat en nieuwe inzichten uit empirisch onderzoek in de praktijk uitgetest worden, is de verwachting dat in de komende jaren nieuwe evidentie zal opduiken met betrekking tot de diverse bouwstenen van de evaluatiematrix en de uitdagingen verbonden aan een kwaliteitsvolle invulling ervan. Het is belangrijk om hier de vinger aan de pols te houden. Tijdens het onderzoek dat aan de basis van deze publicatie lag viel het ook op dat vele van de buitenlandse praktijkvoorbeelden bereid zijn om inzichten en ideeën te delen en dat nieuwe richtingen momenteel worden verkend en in de toekomst zullen worden geëvalueerd. Het vormen van een internationaal netwerk voor kennisdeling, lijkt bijgevolg een van de mogelijkheden om op de hoogte te blijven van recente ontwikkelingen.
+
